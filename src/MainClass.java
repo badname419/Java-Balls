@@ -20,7 +20,6 @@ import javax.swing.SwingUtilities;
 public class MainClass extends javax.swing.JFrame implements Runnable{
 
     int width, height;
-    int ovalDimension2;
     int circleNum = 0; 
     int speed = 1;
     int max = 2000;
